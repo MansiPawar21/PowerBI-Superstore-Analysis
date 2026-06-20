@@ -1,5 +1,4 @@
-# PowerBI-Superstore-Analysis
-Superstore Analysis Dashboard
+# Superstore Analysis Dashboard
 
 📊 Project Overview
 The Superstore Analysis Dashboard is an interactive business intelligence dashboard designed to analyze sales performance, profitability, product categories, and regional trends using Superstore sales data.
@@ -94,11 +93,6 @@ Profit
 ✔ Supports strategic decision-making through interactive analysis.
 ✔ Enables quick monitoring of key business metrics.
 
-<h2 align="center">Dashboard Preview</h2>
-
-<p align="center">
-  <img src="C:\Users\mansi\Pictures\Screenshots\Dashboard.jpg.png" width="900">
-</p>
 
 🔮 Future Enhancements
 -->Sales Trend Analysis
