@@ -1,4 +1,4 @@
-# 📊 Superstore Analysis Dashboard
+📊 Superstore Analysis Dashboard
 
 📌 Project Overview
 
@@ -12,7 +12,7 @@ Designed with a clean and professional layout, this dashboard enables stakeholde
 
 «Upload your dashboard screenshot to the repository and replace "dashboard.png" with your image file name.»
 
-![Superstore Dashboard](dashboard.png)
+![Superstore Dashboard](Dashboard.png)
 
 ---
 
