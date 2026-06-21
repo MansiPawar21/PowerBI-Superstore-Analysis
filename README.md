@@ -10,8 +10,6 @@ Designed with a clean and professional layout, this dashboard enables stakeholde
 
 🖼️ Dashboard Preview
 
-«Upload your dashboard screenshot to the repository and replace "dashboard.png" with your image file name.»
-
 ![Superstore Dashboard](Dashboard.png)
 
 ---
