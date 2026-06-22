@@ -1,6 +1,6 @@
-📊 Superstore Analysis Dashboard
+# 📊 Superstore Analysis Dashboard
 
-📌 Project Overview
+### 📌 Project Overview
 
 The Superstore Analysis Dashboard is an interactive Power BI dashboard developed to analyze and visualize key business metrics from a retail superstore dataset. The dashboard provides a comprehensive overview of sales performance, profitability, product category contributions, and regional business insights.
 
@@ -8,13 +8,13 @@ Designed with a clean and professional layout, this dashboard enables stakeholde
 
 ---
 
-🖼️ Dashboard Preview
+### 🖼️ Dashboard Preview
 
 ![Superstore Dashboard](Dashboard.png)
 
 ---
 
-🎯 Project Objectives
+### 🎯 Project Objectives
 
 - Analyze overall sales and profit performance.
 - Track key business KPIs.
@@ -25,7 +25,7 @@ Designed with a clean and professional layout, this dashboard enables stakeholde
 
 ---
 
-📈 Key Performance Indicators (KPIs)
+### 📈 Key Performance Indicators (KPIs)
 
 KPI| Value
 Total Sales| 1.50M
@@ -35,7 +35,7 @@ Average Discount| 0.16
 
 ---
 
-📊 Dashboard Features
+### 📊 Dashboard Features
 
 1. KPI Cards
 
@@ -82,7 +82,7 @@ Category
 
 ---
 
-🛠️ Tools & Technologies Used
+### 🛠️ Tools & Technologies Used
 
 - Power BI Desktop
 - Data Modeling
@@ -93,7 +93,7 @@ Category
 
 ---
 
-📂 Dataset Information
+### 📂 Dataset Information
 
 The dataset contains retail sales transaction data including:
 
@@ -115,7 +115,7 @@ The dataset contains retail sales transaction data including:
 
 ---
 
-💡 Business Insights
+### 💡 Business Insights
 
 Category Analysis
 
@@ -131,7 +131,7 @@ Regional Analysis
 
 ---
 
-🚀 Benefits of the Dashboard
+### 🚀 Benefits of the Dashboard
 
 ✔ Provides a clear overview of business performance.
 
@@ -145,7 +145,7 @@ Regional Analysis
 
 ---
 
-📁 Repository Structure
+### 📁 Repository Structure
 
 PowerBI-Superstore-Analysis
 │
@@ -157,7 +157,7 @@ PowerBI-Superstore-Analysis
 
 ---
 
-🔮 Future Enhancements
+### 🔮 Future Enhancements
 
 - Sales Trend Analysis
 - Customer Segment Analysis
@@ -168,15 +168,15 @@ PowerBI-Superstore-Analysis
 
 ---
 
-👩‍💻 Author
+### 👩‍💻 Author
 
 Mansi Pawar
 
-Aspiring Data Analyst passionate about transforming data into actionable business insights using Power BI, Excel, SQL, and Python.
+Data Analyst Enthusiast and aspiring AI/ML passionate about transforming data into actionable business insights using Power BI, Excel, SQL, and Python.
 
 ---
 
-⭐ Project Highlights
+ ### ⭐ Project Highlights
 
 - Interactive Power BI Dashboard
 - Professional Business Intelligence Reporting
